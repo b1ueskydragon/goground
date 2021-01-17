@@ -1,4 +1,4 @@
-package p0643
+package main
 
 // find the contiguous subarray of given length k that has the maximum average value
 func findMaxAverage(nums []int, k int) float64 {
